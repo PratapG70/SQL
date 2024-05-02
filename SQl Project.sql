@@ -103,7 +103,7 @@ VALUES
 -- Insert sample data into the Appointments table
 INSERT INTO Appointments (AppointmentID, PatientID, DoctorID, AppointmentDateTime, Status)
 VALUES
-	(1, 1, 1, '2024-05-03 09:00:00', 'Scheduled'),
+    (1, 1, 1, '2024-05-03 09:00:00', 'Scheduled'),
     (2, 2, 2, '2024-05-04 10:00:00', 'Scheduled'),
     (3, 3, 1, '2024-05-04 11:00:00', 'Scheduled'),
     (4, 4, 4, '2024-05-05 10:00:00', 'Scheduled'),
